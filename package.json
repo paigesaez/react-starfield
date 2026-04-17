@@ -1,6 +1,6 @@
 {
   "name": "react-starfield",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Decorative twinkling starfield overlay for React",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -11,8 +11,7 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
-    },
-    "./css": "./dist/starfield.css"
+    }
   },
   "files": [
     "dist"

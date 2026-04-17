@@ -6,6 +6,4 @@ export default defineConfig({
   dts: true,
   clean: true,
   external: ["react"],
-  // Copy the CSS file into dist alongside the JS
-  onSuccess: "cp src/starfield.css dist/starfield.css",
 });
